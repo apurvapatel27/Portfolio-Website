@@ -41,6 +41,7 @@ View in browser: Open http://localhost:3000 to see the result.
 5. **Screenshots**
 <img width="1896" height="903" alt="image" src="https://github.com/user-attachments/assets/bb917b3e-60a3-440c-ae51-0a536d5441e8" />
 <img width="1899" height="903" alt="image" src="https://github.com/user-attachments/assets/e7de328b-001d-4465-a5ec-b132b3e8816f" />
+**Live Demo:** https://portfolio-website-lyart-one-11.vercel.app/
 
 6. **📬 Contact Me**
 Feel free to reach out if you'd like to collaborate or just say hi!
