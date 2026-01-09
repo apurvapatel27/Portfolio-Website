@@ -24,19 +24,13 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/apurvapatel27/Portfolio-Website.git](https://github.com/apurvapatel27/Portfolio-Website.git)
-Install dependencies:
-
-Bash
-
+2. **Install dependencies:**
 npm install
-Run the development server:
-
-Bash
-
+3. **Run the development server:**
 npm run dev
 View in browser: Open http://localhost:3000 to see the result.
+4. **📁 Project Structure**
 
-📁 Project Structure
 /public: Static assets like images and resumes.
 
 /src/components: Reusable UI components.
@@ -45,7 +39,7 @@ View in browser: Open http://localhost:3000 to see the result.
 
 tailwind.config.ts: Custom theme configurations.
 
-📬 Contact Me
+5. **📬 Contact Me**
 Feel free to reach out if you'd like to collaborate or just say hi!
 
 GitHub: @apurvapatel27
