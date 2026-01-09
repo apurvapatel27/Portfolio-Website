@@ -31,13 +31,13 @@ npm run dev
 View in browser: Open http://localhost:3000 to see the result.
 4. **📁 Project Structure**
 
-/public: Static assets like images and resumes.
+         /public: Static assets like images and resumes.
 
-/src/components: Reusable UI components.
+         /src/components: Reusable UI components.
 
-/src/pages: Application routes and main views.
+         /src/pages: Application routes and main views.
 
-tailwind.config.ts: Custom theme configurations.
+         tailwind.config.ts: Custom theme configurations.
 
 5. **📬 Contact Me**
 Feel free to reach out if you'd like to collaborate or just say hi!
