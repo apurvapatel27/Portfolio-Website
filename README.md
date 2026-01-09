@@ -42,6 +42,6 @@ View in browser: Open http://localhost:3000 to see the result.
 5. **📬 Contact Me**
 Feel free to reach out if you'd like to collaborate or just say hi!
 
-GitHub: @apurvapatel27
+         GitHub: @apurvapatel27
 
-Email: apurvapatel981@gmail.com
+         Email: apurvapatel981@gmail.com
